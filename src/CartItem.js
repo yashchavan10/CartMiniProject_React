@@ -22,19 +22,19 @@ const CartItem = (props) => {
           <img
             alt="increase"
             className="action-icons"
-            src="https://image.flaticon.com/icons/svg/992/992651.svg"
+            src="https://img.icons8.com/?size=512&id=24717&format=png"
             onClick={() => onIncreaseQuantity(product)}
           />
           <img
             alt="decrease"
             className="action-icons"
-            src="https://image.flaticon.com/icons/svg/1665/1665612.svg"
+            src="https://img.icons8.com/?size=512&id=1504&format=png"
             onClick={() => onDecreaseQuantity(product)}
           />
           <img
             alt="delete"
             className="action-icons"
-            src="https://image.flaticon.com/icons/svg/1214/1214428.svg"
+            src="https://img.icons8.com/?size=512&id=OD5jprZTbcDK&format=png"
             onClick={() => onDeleteProduct(product.id)}
           />
         </div>
