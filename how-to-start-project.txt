@@ -1,6 +1,0 @@
-HOW TO START THE PROJECT
-________________________
-
-* Run command - "npm i" (make sure you have package.json in the directory where you run this command ) 
-* Run command - "npm start"
-* Open browser, go to URL: http://localhost:8000
